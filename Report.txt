@@ -1,0 +1,6 @@
+ # Written description of at least two observable trends based on the data.
+
+1. The top 5 performing schools are from the type charter, and all in the bottom 5 are type district.
+2. Unlike expected, the schools with budgets per student of <$585 have higher average and 
+passing rates than those with higher budgets per student The higher the budget per student the lower the
+passing rates.
